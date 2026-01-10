@@ -1,0 +1,99 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: #1C1C1C;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+  background-color:#1F2937;
+  width: 550;
+  height: 550;
+  top: 64px;
+  left: 642px;
+}
+
+.container{
+  /* border: 2px solid red; */
+  padding: 52px;
+  padding-top: 118px;
+}
+
+.text-container{
+  /* border: 2px solid red; */
+  /* margin: 118px 0 0 52px; */
+}
+
+.first-line{
+  color: white;
+
+  font-family: Karla;
+  font-size: 40px;
+  font-weight: 800;
+  font-style: ExtraBold;
+  line-height: 40px;
+  letter-spacing: -2.5%;
+}
+.second-line{
+  color: #55F991;
+
+  font-family: Karla;
+  font-size: 40px;
+  font-weight: 800;
+  font-style: ExtraBold;
+  line-height: 40px;
+  letter-spacing: -2.5%;
+}
+.third-line{
+  color: #D5D4D8;
+
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0%;
+
+  padding:10px 0 51px;
+}
+
+.gen-button{
+  background-color: #10B981;
+  color: white;
+  width: 223;
+  height: 42;
+  border-radius: 6px;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+hr{
+  margin: 30px 0;
+  color: #2F3E53;
+  border-style: solid;
+}
+
+
+.button-container-one,
+.button-container-two {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.button-container-one button,
+.button-container-two button{
+  background-color: #273549;
+  width: 211;
+  height: 39;
+  border-radius: 6px;
+  color: #10B981;
+}
