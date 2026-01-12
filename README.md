@@ -1,5 +1,5 @@
-# Solo Project (PRO) - Password Generator
-Solo Project aimed for Advanced Students learning Javascript.
+# Password Generator
+Project aimed for Advanced Students learning Javascript.
 
 ## Requirements
 - Array to hold all possible chars
