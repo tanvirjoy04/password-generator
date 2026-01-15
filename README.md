@@ -1,6 +1,10 @@
 # Password Generator
 Project aimed for Advanced Students learning Javascript.
 
+First hands-on-built password generator of my life. 🎉, 👏, 🎊, 🎈
+
+Congratulations to me.
+
 ## Requirements
 - Array to hold all possible chars
 - Button to generate 4 random password options
