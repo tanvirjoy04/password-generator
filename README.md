@@ -13,11 +13,11 @@ Congratulations to me.
 
 ## Stretch goals 
 - ability to set the password length
-- Stretch: 1-click copy password to the clipboard <sub>(hint: use </sub>
+- 1-click copy password to the clipboard <sub>(hint: use </sub>
 ```html
 <input type="text">
 ``` 
 to display the password options)
-- light mode, dark mode
+- dark mode, light mode [See design](https://www.figma.com/design/YRO9Iw5IYaOorjnRyNz4bV/Random-Password-Generator?node-id=0-1&p=f&t=iikTMU3UgKD5BKyt-0)
 
 [Full Instruction](https://scrimba.com/s047rpm/s0aqspvfaf/head)
